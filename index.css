@@ -1,0 +1,118 @@
+html * {
+    font-weight: 500;
+    color: #000;
+    font-family: 'Montserrat', serif;
+    text-align: left;
+    line-height: 150%;
+}
+
+.project-title {
+    font-size: 70px;
+    color: black;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.project-section {
+    color: black;
+    margin-bottom: 100px;
+    font-size: 20px;
+}
+
+.project-section>h2 {
+    font-size: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.project-section>h3 {
+    font-size: 35px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    font-style: italic;
+}
+
+.project-section>h4 {
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+li {
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+b {
+    font-weight: 800 !important;
+}
+
+.one-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    margin-bottom: 30px;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 600px;
+    margin-bottom: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.1)
+}
+
+.emphaty-map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+.frame {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.frame>img {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+frame>h3 {
+    text-align: center !important;
+}
+
+.btn {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modal-dialog-full-width {
+    max-width: 90% !important;
+    width: 90%;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+.modal-open {
+    overflow: scroll;
+}
+
+.img-full-width {
+    margin: 0 0 0 0;
+    width: 100%;
+}
+
+.img-large-caption {
+    text-align: center !important;
+    font-size: 35px;
+}
